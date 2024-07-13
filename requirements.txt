@@ -1,0 +1,4 @@
+Flask
+Celery
+requests
+python-dotenv
